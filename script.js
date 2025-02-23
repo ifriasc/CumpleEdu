@@ -14,7 +14,7 @@ function typeCode() {
         setTimeout(typeCode, 50); // Velocidad de escritura
     } else {
         // Una vez terminado de escribir el código, se llama a la función de transición:
-        transitionToPage("https://martamnz.github.io/"); 
+        transitionToPage("https://martamnz.github.io/");     
     }
 }
 
